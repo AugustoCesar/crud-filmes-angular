@@ -109,6 +109,36 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "Cruella",
+      "urlFoto": "https://www.imdb.com/title/tt3228774/mediaviewer/rm2813644033/?ref_=tt_ov_i",
+      "dtLancamento": "2021-06-03T03:00:00.000Z",
+      "descricao": "A live-action prequel feature film following a young Cruella de Vil.",
+      "nota": 7.4,
+      "urlIMDB": "https://www.imdb.com/title/tt3228774/?ref_=hm_fanfav_tt_i_5_pd_fp1",
+      "genero": "Comédia",
+      "id": 12
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-15T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDB": "",
+      "genero": "Romance",
+      "id": 13
+    },
+    {
+      "titulo": "testefff",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-05T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDB": "",
+      "genero": "Aventura",
+      "id": 14
     }
   ]
 }
