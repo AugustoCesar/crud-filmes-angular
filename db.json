@@ -111,134 +111,14 @@
       "id": 11
     },
     {
-      "titulo": "Cruella",
-      "urlFoto": "https://www.imdb.com/title/tt3228774/mediaviewer/rm2813644033/?ref_=tt_ov_i",
-      "dtLancamento": "2021-06-03T03:00:00.000Z",
-      "descricao": "A live-action prequel feature film following a young Cruella de Vil.",
+      "titulo": "Um Lugar Silencioso: Parte II",
+      "urlFoto": "https://www.imdb.com/title/tt8332922/mediaviewer/rm417579265/?ref_=tt_ov_i",
+      "dtLancamento": "2020-11-19T03:00:00.000Z",
+      "descricao": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
       "nota": 7.4,
-      "urlIMDB": "https://www.imdb.com/title/tt3228774/?ref_=hm_fanfav_tt_i_5_pd_fp1",
-      "genero": "Comédia",
+      "urlIMDB": "https://www.imdb.com/title/tt8332922/?ref_=tt_mv_close",
+      "genero": "Terror",
       "id": 12
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-15T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Romance",
-      "id": 13
-    },
-    {
-      "titulo": "testefff",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-05T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Aventura",
-      "id": 14
-    },
-    {
-      "titulo": "sdadds",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-10T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Terror",
-      "id": 15
-    },
-    {
-      "titulo": "TESTE 2",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-21T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Aventura",
-      "id": 16
-    },
-    {
-      "titulo": "teste sssss",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-07T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Romance",
-      "id": 17
-    },
-    {
-      "titulo": "mascara",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-13T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Comédia",
-      "id": 18
-    },
-    {
-      "titulo": "adklasdjkasjdkladjkasd",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-21T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Romance",
-      "id": 19
-    },
-    {
-      "titulo": "sdfsdf",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-06T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Romance",
-      "id": 20
-    },
-    {
-      "titulo": "sdfsdfsd",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-13T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Aventura",
-      "id": 21
-    },
-    {
-      "titulo": "ertretert",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-13T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Terror",
-      "id": 22
-    },
-    {
-      "titulo": "ertertert",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-07T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Aventura",
-      "id": 23
-    },
-    {
-      "titulo": "rtert",
-      "urlFoto": "",
-      "dtLancamento": "2021-07-10T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Terror",
-      "id": 24
     }
   ]
 }
