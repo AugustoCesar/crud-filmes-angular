@@ -18,12 +18,12 @@ export class AlertaComponent implements OnInit {
     corBtnCancelar: 'warn',
     possuiBtnFechar: false
   } as Alerta;
-  
-  constructor(  public dialogRef: MatDialogRef<AlertaComponent>,
-                @Inject(MAT_DIALOG_DATA) public data: Alerta) { }
+
+  constructor(public dialogRef: MatDialogRef<AlertaComponent>,
+    @Inject(MAT_DIALOG_DATA) public data: Alerta) { }
 
   ngOnInit() {
-    if(this.data) {
+    if (this.data) {
       this.alerta.titulo = this.data.titulo || this.alerta.titulo;
       this.alerta.descricao = this.data.descricao || this.alerta.descricao;
       this.alerta.btnSucesso = this.data.btnSucesso || this.alerta.btnSucesso;
@@ -33,5 +33,4 @@ export class AlertaComponent implements OnInit {
       this.alerta.possuiBtnFechar = this.data.possuiBtnFechar || this.alerta.possuiBtnFechar;
     }
   }
-
 }
